@@ -7,7 +7,7 @@ import {
     Settings,
 } from '../components/Icon'
 import { useSelector } from 'react-redux'
-import { Comanda, RootState } from '../data/type'
+import { RootState } from '../data/type'
 
 const SideBarAside = styled.aside`
     background-color: #333;
